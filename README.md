@@ -1,2 +1,3 @@
-# Compiler
-Custom Compiler.
+# Syntax Parser
+
+Custom Syntax Parser written in Rust.
